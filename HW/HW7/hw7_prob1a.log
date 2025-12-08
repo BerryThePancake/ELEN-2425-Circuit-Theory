@@ -1,0 +1,16 @@
+LTspice 24.0.12 for Windows
+Circuit: * G:\My Drive\School\Electrical\ECT\HW\HW7\hw7_prob1a.asc
+Start Time: Sat Nov 22 16:05:12 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = modified trap
+.OP point found by inspection.
+
+freqval: ph(v(vzeq))=0 AT 59.5693200366
+zeqval: v(vzeq)=(0.00385731780048,-89.6124123573°) at 59.5693200366
+reqval: re(v(vzeq))=(2.60933235147e-05,0°) at 59.5693200366
+
+Total elapsed time: 0.138 seconds.
+

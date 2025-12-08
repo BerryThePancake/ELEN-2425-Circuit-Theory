@@ -1,0 +1,15 @@
+LTspice 24.0.12 for Windows
+Circuit: * G:\My Drive\School\Electrical\ECT\HW\HW6\Spice Verification\hw6_prob1.asc
+Start Time: Mon Nov  3 19:54:19 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Less than two connections to node voutcheck.  This node is used by b1.
+Direct Newton iteration for .op point succeeded.
+
+maxerror: MAX(abs(v(vout)-v(voutcheck)))=0.00269952158477 FROM 0 TO 0.02
+
+Total elapsed time: 0.515 seconds.
+
